@@ -1,5 +1,5 @@
 
-## Bayesian Statistics [Suggested time: 15 minutes]
+## Bayesian Statistics
 ### Bayes' Theorem
 
 Thomas wants to get a new puppy 🐕 🐶 🐩 
@@ -15,17 +15,33 @@ If he goes to the pet store, the probability of him getting a small puppy is $0.
 
 If he goes to the pound, the probability of him getting a small puppy is $0.1$. The probability of him getting a medium puppy is $0.35$, and the probability of him getting a large puppy is $0.55$.
 
-* 1) What is the probability of Thomas getting a small puppy?
-* 2) Given that he got a large puppy, what is the probability that Thomas went to the pet store?
-* 3) Given that Thomas got a small puppy, is it more likely that he went to the pet store or to the pound?
-* 4) For Part 2, what is the prior, posterior and likelihood?
+
+### Questions
+
+1) What is the probability of Thomas getting a small puppy?
 
 
 ```python
-ans1 = None
-ans2 = None
-ans3 = "answer here"
-ans4_prior = "answer here"
-ans4_posterior = "answer here"
-ans4_likelihood = "answer here"
+# your answer here
+```
+
+2) Given that he got a large puppy, what is the probability that Thomas went to the pet store?
+
+
+```python
+# your answer here
+```
+
+3) Given that Thomas got a small puppy, is it more likely that he went to the pet store or to the pound?
+
+
+```python
+# your answer here
+```
+
+4) For question 2, what is the prior, posterior and likelihood?
+
+
+```python
+# your answer here
 ```
