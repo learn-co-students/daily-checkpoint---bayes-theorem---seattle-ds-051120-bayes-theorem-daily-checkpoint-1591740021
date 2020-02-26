@@ -1,4 +1,3 @@
-
 ## Bayesian Statistics
 ### Bayes' Theorem
 
@@ -22,26 +21,26 @@ If he goes to the pound, the probability of him getting a small puppy is $0.1$. 
 
 
 ```python
-# your answer here
+# Your answer here.  Write out your process in addition to your final numeric answer.
 ```
 
 2) Given that he got a large puppy, what is the probability that Thomas went to the pet store?
 
 
 ```python
-# your answer here
+# Your answer here.  Write out your process in addition to your final numeric answer.
 ```
 
 3) Given that Thomas got a small puppy, is it more likely that he went to the pet store or to the pound?
 
 
 ```python
-# your answer here
+# Your answer here.  Write out your process in addition to your final answer.
 ```
 
 4) For question 2, what is the prior, posterior and likelihood?
 
 
 ```python
-# your answer here
+# Your answer here
 ```
